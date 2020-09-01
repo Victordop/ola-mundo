@@ -9,8 +9,10 @@ Esta linha eu adicionei diretamente do site!
 ***
 Notas sobre a aula de linguagem markdown:
 
-**duas formas negrito** 
-_ duas formas italico_ 
+**negrito**
+
+*italico*
+
 ~~riscar~~ 
 
 # Título nivel 1
