@@ -19,11 +19,7 @@ _italico_
 # Título nivel 1
 ## titulo nivel 2
 ### titulo nivel 3
-
-linha 
-*** 
----
-
+ 
 ~~**_misturar_**~
 
 Lista numerada
