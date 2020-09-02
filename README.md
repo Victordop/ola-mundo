@@ -19,7 +19,7 @@ Notas sobre a aula de linguagem markdown:
 ## titulo nivel 2
 ### titulo nivel 3
  
-~~**_misturar_**~
+~**_misturar_**~
 
 **Lista numerada**
 1. item1
