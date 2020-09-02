@@ -41,9 +41,9 @@ Notas sobre a aula de linguagem markdown:
 - [ ] aplicar no GitHub -> issues, readme.md, pull request
 
 
-**como fazer tabela tabela?**
-**como adicionar imagem?**
-**como incluir links??**
-**como colar código??**
-**como adicionar emote?**
+* **como fazer tabela tabela?**
+* **como adicionar imagem?**
+* **como incluir links??**
+* **como colar código??**
+* **como adicionar emote?**
 
