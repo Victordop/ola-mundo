@@ -46,4 +46,8 @@ Notas sobre a aula de linguagem markdown:
 * **como incluir links??**
 * **como colar código??**
 * **como adicionar emote?**
+* **como colocar emoji no título de uma issue?
+* **como marcar pessoas?**
+* **como fazer quotes ? (2 metodos)
+
 
